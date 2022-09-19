@@ -26,6 +26,6 @@ Clone the repository on GitHub then open Git on your local machine. First find a
 The purpose of this project is to make a functional node application that uses express.js to handle the backend. 
 
 
-![Challange11-Note Taker](./images/Myteam.PNG)
+![Challange11-Note Taker](./images/Notes.PNG)
 
-[Video](https://www.youtube.com/watch?v=f5MI9cazCVI)
+
